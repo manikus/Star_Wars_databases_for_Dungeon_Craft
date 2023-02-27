@@ -1,0 +1,10 @@
+// Septermber 23, 2017
+// ToDo3,"Base Spell Levels"
+// ToDo4,"MaxNumSpellsByPrime"
+// ToDo5,"MaxSpellLevelByPrime"
+// ToDo6,"Skill Saving Throws"
+// ToDo7,"other Skills"
+// ToDo8,"SkillAdjBase"
+// ToDo9,"BonusSpells"
+// ToDo10,"SpellBonusAbility"
+// ToDo11,"Special Ability"

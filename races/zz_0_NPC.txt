@@ -1,0 +1,2 @@
+//	NPC races
+//	Ewok, Gamorrean, Gungan, Mandalorian

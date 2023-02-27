@@ -1,0 +1,6 @@
+\(BEGIN)
+name = Constitution
+Abbreviation = CON
+Roll = 3 |< 3d6 >| 18 + (Race_Bothan*-2) + (Race_Duros*-2) + ("Race_Kel Dor"*-2) + ("Race_Mon Calamari"*-2) + (Race_Sullustan*-2) + (Race_Quarren*2) + (Race_Wookiee*2)
+\(END)
+

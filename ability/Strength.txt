@@ -1,0 +1,6 @@
+\(BEGIN)
+name = Strength
+Abbreviation = STR
+Roll = 3 |< 3d6 >| 18 + (Race_Ewok*-2) + (Race_Gamorrean*2) + (Race_Trandoshan*2) + (Race_Wookiee*4)
+\(END)
+

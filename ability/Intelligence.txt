@@ -1,0 +1,6 @@
+\(BEGIN)
+name = Intelligence
+Abbreviation = INT
+Roll = 3 |< 3d6 >| 18 + (Race_Gamorrean*-2) + (Race_Gungan*-2) + (Race_Cerean*2) + (Race_Duros*2) + ("Race_Mon Calamari"*2)
+\(END)
+

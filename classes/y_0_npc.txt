@@ -1,0 +1,2 @@
+// NPC classes
+// Bounty Hunter, Dark Jedi, Grey Jedi, Sith

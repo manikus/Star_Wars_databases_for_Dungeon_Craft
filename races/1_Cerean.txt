@@ -1,0 +1,25 @@
+\(BEGIN)
+name = Cerean
+height = 2d10+190
+weight = 2d5+53+((15+2d5)*Male)
+age = 1d4+14
+maxage = 1d15+65
+BaseMovement = 10
+AbilityRequirement = Strength		3/18
+AbilityRequirement = Intelligence	3/20
+AbilityRequirement = Wisdom			3/20
+AbilityRequirement = Dexterity		3/16
+AbilityRequirement = Constitution	3/18
+AbilityRequirement = Charisma		3/18
+ChangeClass = yes
+DwarfResistance = no
+GnomeResistance = no
+FindSecretDoor = 1
+FindSecretDoorSearching = 2
+Special Ability = initiativeBonus,2
+Special Ability = raceDualClass,1
+Special Ability = speakBasic,1
+Special Ability = speakCerean,1
+\(END)
+//height is in cm and weight is kg
+

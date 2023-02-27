@@ -1,0 +1,6 @@
+\(BEGIN)
+name = Charisma
+Abbreviation = CHA
+Roll = 3 |< 3d6 >| 18 + (Race_Gungan*-2) + (Race_Quarren*-2) + (Race_Rodian*-2) + (Race_Wookiee*-2) + (Race_Ithorian*2) + ("Race_Twi'lek"*2)
+\(END)
+

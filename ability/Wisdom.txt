@@ -1,0 +1,6 @@
+\(BEGIN)
+name = Wisdom
+Abbreviation = WIS
+Roll = 3 |< 3d6 >| 18 + (Race_Quarren*-2) + (Race_Rodian*-2) + ("Race_Twi'lek"*-2) + (Race_Wookiee*-2) + (Race_Cerean*2) + (Race_Ithorian*2) + ("Race_Kel Dor"*2) + ("Race_Mon Calamari"*2)
+\(END)
+

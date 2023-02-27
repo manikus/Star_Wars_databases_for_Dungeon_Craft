@@ -1,0 +1,2 @@
+// at 4th, 8th, 12th, 16th and 20th level, all stats go up by one
+// September 23, 2017

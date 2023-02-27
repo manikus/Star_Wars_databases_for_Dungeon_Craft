@@ -1,0 +1,24 @@
+\(BEGIN)
+name = Trandoshan
+height = 2d10+190
+weight = 2d5+75
+age = 1d4+14
+maxage = 1d15+60
+BaseMovement = 6
+AbilityRequirement = Strength		3/20
+AbilityRequirement = Intelligence	3/18
+AbilityRequirement = Wisdom			3/18
+AbilityRequirement = Dexterity		3/16
+AbilityRequirement = Constitution	3/18
+AbilityRequirement = Charisma		3/18
+ChangeClass = yes
+DwarfResistance = no
+GnomeResistance = no
+FindSecretDoor = 0
+FindSecretDoorSearching = 1
+Special Ability = raceDualClass,1
+Special Ability = speakBasic,1
+Special Ability = speakDosh,1
+\(END)
+//height is in cm and weight is kg
+

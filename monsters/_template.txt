@@ -1,0 +1,32 @@
+//	Animal
+\(BEGIN)
+name = 
+icon file = DEFAULT
+miss sound = DEFAULT
+hit sound = DEFAULT
+move sound = DEFAULT
+death sound = DEFAULT
+intelligence = 
+armor class = 
+movement rate = 
+hit dice = 
+treat HD as hit points = 
+hit dice bonus = 0
+THAC0 = 
+magic resistance = 0
+size = 
+morale = 
+experience point value = 
+Special Ability = 
+Special Ability = monsterLevel,11
+classes = 
+Race = 
+form = none
+penalty = none
+immunity = none
+Misc Options = none
+item = none
+attack = _,_,_,attack,
+Undead = none
+\(END)
+

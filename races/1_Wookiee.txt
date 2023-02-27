@@ -1,0 +1,24 @@
+\(BEGIN)
+name = Wookiee
+height = 2d10+190+((20+2d10)*Male)
+weight = 2d5+955+((25+2d5)*Male)
+age = 1d4+31
+maxage = 1d50+400
+BaseMovement = 6
+AbilityRequirement = Strength		3/22
+AbilityRequirement = Intelligence	3/18
+AbilityRequirement = Wisdom			3/16
+AbilityRequirement = Dexterity		3/16
+AbilityRequirement = Constitution	3/20
+AbilityRequirement = Charisma		3/16
+ChangeClass = yes
+DwarfResistance = no
+GnomeResistance = no
+FindSecretDoor = 0
+FindSecretDoorSearching = 1
+Special Ability = raceDualClass,1
+Special Ability = speakShyriiwook,1
+Special Ability = speakBasic,understand only
+\(END)
+//height is in cm and weight is kg
+
